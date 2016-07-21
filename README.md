@@ -1,8 +1,6 @@
 
 # Dockup
 
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
-
 Docker image to backup your Docker container volumes
 
 Why the name? Docker + Backup = Dockup
